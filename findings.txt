@@ -1,0 +1,15 @@
+Jersey City CitiBike Ridership Dashboard
+
+Findings
+
+Grove Street PATH Station is the Station where the most journeys have originated
+The majority of the top ten stations of where journeys originated is near the waterfront
+Top ten stations where journeys ended are not different from where they originated
+Columbus Drive Station is the only station that was delisted from a top ten journey origination ranking over the course of 2019 & 2020
+
+Male riders outnumber female riders 2 to 1
+
+Liberty Light Rail riders have the longest trip duration on average. Their average trip lasts 46 minutes. 
+Jersey and 6th Station riders have the shortest trip duration on average. Their average trip lasts less than 10 minutes
+Average trip of a CitiBike rider is approximately 14 minutes.
+
